@@ -184,7 +184,7 @@ set(possible_subprojects
   termcolor
   recycle
   tcp_pubsub
-  #libssh2
+  #ltcp_pubsubtcp_pubsubibssh2
   #zlib zlibstatic
   CURL
   GTest
